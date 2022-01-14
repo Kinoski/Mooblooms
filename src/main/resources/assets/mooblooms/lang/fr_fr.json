@@ -6,7 +6,16 @@
 	"entity.mooblooms.oxeye_daisy_moobloom": "Florimeuh marguerite",
 	"entity.mooblooms.cornflower_moobloom": "Florimeuh bleuet",
 	"entity.mooblooms.wither_rose_moobloom": "Florimeuh rose de Wither",
+	"entity.mooblooms.suncower": "Taurusol",
 	"entity.mooblooms.bambmoo": "Bamboumeuh",
+	"entity.mooblooms.cowctus": "Cactaurus",
+	"entity.mooblooms.chorus_moobloom": "Florimeuh chorus",
+	"entity.mooblooms.crimson_mooshroom": "Champimeuh carmin",
+	"entity.mooblooms.warped_mooshroom": "Champimeuh biscornue",
+	"entity.mooblooms.red_cluckshroom": "Champicotcot rouge",
+	"entity.mooblooms.brown_cluckshroom": "Champicotcot brune",
+	"entity.mooblooms.crimson_cluckshroom": "Champicotcot carmin",
+	"entity.mooblooms.warped_cluckshroom": "Champicotcot biscornue",
 	
 	"item.mooblooms.dandelion_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh pissenlit",
 	"item.mooblooms.poppy_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh coquelicot",
@@ -15,5 +24,14 @@
 	"item.mooblooms.oxeye_daisy_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh marguerite",
 	"item.mooblooms.cornflower_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh bleuet",
 	"item.mooblooms.wither_rose_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh rose de Wither",
-	"item.mooblooms.bambmoo_spawn_egg": "Oeuf d'apparition de bamboumeuh"
+	"item.mooblooms.suncower_spawn_egg": "Oeuf d'apparition de taurusol",
+	"item.mooblooms.bambmoo_spawn_egg": "Oeuf d'apparition de bamboumeuh",
+	"item.mooblooms.cowctus_spawn_egg": "Oeuf d'apparition de cactaurus",
+	"item.mooblooms.chorus_moobloom_spawn_egg": "Oeuf d'apparition de florimeuh chorus",
+	"item.mooblooms.crimson_mooshroom_spawn_egg": "Oeuf d'apparition de champimeuh carmin",
+	"item.mooblooms.warped_mooshroom_spawn_egg": "Oeuf d'apparition de champimeuh biscornue",
+	"item.mooblooms.red_cluckshroom_spawn_egg": "Oeuf d'apparition de champicotcot rouge",
+	"item.mooblooms.brown_cluckshroom_spawn_egg": "Oeuf d'apparition de champicotcot brune",
+	"item.mooblooms.crimson_cluckshroom_spawn_egg": "Oeuf d'apparition de champicotcot carmin",
+	"item.mooblooms.warped_cluckshroom_spawn_egg": "Oeuf d'apparition de champicotcot biscornue"
 }
